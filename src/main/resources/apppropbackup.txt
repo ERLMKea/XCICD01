@@ -1,0 +1,10 @@
+spring.datasource.url=jdbc:mysql://20.224.82.240:3306/mycicd
+spring.datasource.username=${myuser}
+spring.datasource.password=${mypassword}
+
+spring.jpa.hibernate.ddl-auto=update
+
+spring.jpa.show-sql=true
+
+
+
